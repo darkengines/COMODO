@@ -1,0 +1,24 @@
+body {
+	background-color: #222222;
+}
+.Container {
+	width: 1024px;
+	height: 100%;
+	margin: 32px auto auto auto;
+}
+.Popup {
+	border-radius: 5px;
+	background-color: rgba(32, 32, 32, 0.5);
+	color: rgb(220, 220, 220);
+}
+.Popup label {
+	color: rgb(220, 220, 220);
+}
+.OptionsContainer {
+	border-radius: 5px;
+	background-color: rgba(32, 32, 32, 0.5);
+	color: rgb(220, 220, 220);
+}
+.OptionsContainer label {
+	color: rgb(220, 220, 220);
+}
